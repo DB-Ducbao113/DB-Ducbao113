@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Nguyen Duc Bao 👋</h1>
+<h1>My name is Nguyen Duc Bao </h1>
 
 <p><strong>Network Engineering · Systems · Software Development</strong></p>
 
@@ -10,8 +10,6 @@
 </p>
 
 <img src="./f1-chibi-2026.gif" alt="Animated chibi Formula 1 cars changing between 11 teams" width="560">
-
-<sub>My F1 chibi animation — an unofficial fan-art project inspired by the 2026 grid.</sub>
 
 <p>
   <a href="https://github.com/DB-Ducbao113?tab=repositories">Explore my repositories</a>
@@ -51,8 +49,6 @@ A motorsport-focused web project that brings together **Formula 1 information, i
 
 **Repositories:** [Current migration workspace](https://github.com/DB-Ducbao113/Podium-Effet-De-Sol) · [Original F1 frontend](https://github.com/DB-Ducbao113/F1-Overview)
 
-> **Project status:** The Cloudflare-based architecture is under local development and review; it should not be treated as a completed production migration.
-
 ### 03 — Aetron | Fitness App & GPS Filtering Research
 
 A cross-platform fitness application that combines workout tracking with a cloud-backed architecture and ongoing GPS-quality research.
@@ -65,8 +61,6 @@ A cross-platform fitness application that combines workout tracking with a cloud
 **Tech:** Flutter · Dart · Supabase · GPS data processing · EKF evaluation
 
 **Repository:** [FitnessExerciseApplication — Aetron](https://github.com/DB-Ducbao113/FitnessExerciseApplication)
-
-> **Research status:** EKF evaluation is ongoing; no independently verified GPS-accuracy improvement is claimed here.
 
 ## Technical toolkit
 
