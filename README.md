@@ -9,7 +9,7 @@
   Building toward <strong>System Engineering</strong> and, in the longer term, <strong>Cloud / DevOps</strong>.
 </p>
 
-<img src="./assets/f1-chibi-2026.gif" alt="Animated chibi Formula 1 cars changing between 11 teams" width="560">
+<img src="./f1-chibi-2026.gif" alt="Animated chibi Formula 1 cars changing between 11 teams" width="560">
 
 <sub>My F1 chibi animation — an unofficial fan-art project inspired by the 2026 grid.</sub>
 
