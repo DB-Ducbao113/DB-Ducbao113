@@ -1,102 +1,92 @@
 <div align="center">
 
-Nguyen Duc Bao
-Network Engineering · Software Development · Practical Systems
-<p>
-  <em>Building reliable networks, analyzing real traffic, and turning ideas into polished software products.</em>
-</p>
+<h1>Hi, I'm Nguyen Duc Bao 👋</h1>
+
+<p><strong>Network Engineering · Systems · Software Development</strong></p>
 
 <p>
-  <a href="https://github.com/DB-Ducbao113"><img src="https://img.shields.io/badge/GitHub-DB--Ducbao113-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0F172A?style=for-the-badge" alt="Location">
-  <img src="https://img.shields.io/badge/Focus-Network%20Engineering-0EA5E9?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Projects-111827?style=for-the-badge" alt="Open to projects">
+  IT student focused on practical networking, reliable systems, and interactive software.<br>
+  Building toward <strong>System Engineering</strong> and, in the longer term, <strong>Cloud / DevOps</strong>.
+</p>
+
+<img src="./assets/f1-chibi-2026.gif" alt="Animated chibi Formula 1 cars changing between 11 teams" width="560">
+
+<sub>My F1 chibi animation — an unofficial fan-art project inspired by the 2026 grid.</sub>
+
+<p>
+  <a href="https://github.com/DB-Ducbao113?tab=repositories">Explore my repositories</a>
 </p>
 
 </div>
 
-About Me
-I'm an Information Technology student specializing in Network Engineering at International University (IU), Vietnam.
+---
 
-I enjoy working on projects that combine network design, traffic analysis, and software implementation. My goal is to build a portfolio that shows both technical depth and practical problem-solving.
-- Strong interest in enterprise networking and network troubleshooting
-- Hands-on with traffic capture, packet analysis, and protocol behavior
-- Comfortable building software with Java, TypeScript, Flutter, and Node.js
-- Currently expanding toward monitoring, visualization, and production-style portfolio projects
-Core Toolbox
-Networking
+## About me
 
+I'm an Information Technology student specializing in **Network Engineering** at International University (IU), Vietnam. I enjoy understanding how systems communicate, troubleshooting problems with evidence, and building software that connects technical ideas with a useful experience.
 
+My current interests span **enterprise networks, Linux operations, application development, and engineering validation**. I am developing my skills step by step toward systems engineering and eventually Cloud / DevOps.
 
+## Featured projects
 
+### 01 — Network Engineering | Infrastructure & Traffic Analysis
 
+A collection of hands-on projects focused on how networks are designed, operated, observed, and verified.
 
+- **[Enterprise Network Design](https://github.com/DB-Ducbao113/EnterpriseNetwork)** — Designed a simulated **two-site enterprise network** in Cisco Packet Tracer with VLANs, trunking, inter-VLAN routing, OSPF, NAT overload, ACLs, DHCP, DNS, and HTTP services. Checked behavior using routing tables, DHCP bindings, NAT translations, and service tests.
+- **[TCP Performance & Reliability Analysis](https://github.com/DB-Ducbao113/TCP-Performance-Analysis)** — Analyzed captured traffic with Wireshark, including RTT, throughput, retransmissions, duplicate ACKs, and TCP loss-recovery behavior.
+- **[Linux Web System Deployment](https://github.com/DB-Ducbao113/DeployLinuxSystem)** — Practiced Ubuntu Server and Nginx deployment using symlink-based releases, HTTP verification, and rollback after a failed check.
 
+**Tools & concepts:** Cisco Packet Tracer · Wireshark · TCP/IP · VLAN · OSPF · Linux · Nginx
 
-Analysis & Systems
+### 02 — Podium Effet De Sol | Formula 1 Web & 3D Experience
 
+A motorsport-focused web project that brings together **Formula 1 information, interactive exploration, and 3D car experiences**.
 
+- Developed a frontend prototype with season pages, race results, driver/team profiles, and an interactive 3D showroom.
+- Explored 3D model interaction, car anatomy, configurable liveries, and performance-aware rendering.
+- Started a **clean-architecture migration** that separates the web frontend, API, synchronization jobs, and shared packages, targeting Cloudflare Workers.
 
+**Tech:** React · TypeScript · Vite · Three.js · React Three Fiber · Cloudflare Workers (migration)
 
-Development
+**Repositories:** [Current migration workspace](https://github.com/DB-Ducbao113/Podium-Effet-De-Sol) · [Original F1 frontend](https://github.com/DB-Ducbao113/F1-Overview)
 
+> **Project status:** The Cloudflare-based architecture is under local development and review; it should not be treated as a completed production migration.
 
+### 03 — Aetron | Fitness App & GPS Filtering Research
 
+A cross-platform fitness application that combines workout tracking with a cloud-backed architecture and ongoing GPS-quality research.
 
+- Built application flows for workout tracking and outdoor activity routes using **Flutter / Dart**.
+- Integrated **Supabase** for cloud-backed application services and data.
+- Investigating **Extended Kalman Filter (EKF)** techniques for GPS smoothing, with attention to input consistency, live/replay behavior, and comparisons against a baseline pipeline.
+- Preparing field-data evaluation and reproducible metrics rather than assuming a filter is more accurate without independent evidence.
 
+**Tech:** Flutter · Dart · Supabase · GPS data processing · EKF evaluation
 
-Featured Projects
-1) Enterprise Network Design
-Designing a small enterprise network with structured segmentation and core services.
-- VLAN segmentation and trunking
-- Inter-VLAN routing
-- OSPF dynamic routing
-- NAT overload, ACL policies, DHCP, DNS, HTTP
-- Validation through routing tables, DHCP bindings, NAT translations, and DNS resolution
-Tech: Cisco Packet Tracer
-Repository: EnterpriseNetwork
-2) TCP Performance & Reliability Analysis
-Analyzing real captured traffic to understand performance degradation and TCP behavior.
-- Packet capture with Wireshark
-- RTT and throughput observation
-- Retransmissions, duplicate ACKs, and fast retransmission analysis
-- Correlating packet-level events with congestion symptoms
-Tech: Wireshark · Packet Capture · Traffic Analysis
-Repository: TCP-Performance-Analysis
-3) Podium Effet De Sol
-A sharp Formula 1 web experience focused on the Ground Effect era, combining presentation, data, and motorsport storytelling.
-- Season pages, team and driver content
-- Standings and race-result presentation
-- Car-focused content and interactive browsing
-- Designed as a polished portfolio-style web product
-Tech: TypeScript · Vite · Frontend Web
-Repository: F1-Overview
-Live Demo: podiumeds.vercel.app
-4) Aetron – Fitness Exercise Application
-A fitness tracking application built around practical mobile experience and structured system design.
-- Workout tracking and session flow
-- Mobile-first experience with Flutter
-- Cloud-backed architecture using Supabase
-- A strong example of application structure beyond coursework
-Tech: Flutter · Dart · Supabase
-Repository: FitnessExerciseApplication
-What I’m Building Next
-I’m currently interested in expanding into projects such as:
-- SNMP-based network monitoring
-- Topology visualization
-- System/network dashboards
-- Portfolio projects with real operational value
-GitHub Analytics
+**Repository:** [FitnessExerciseApplication — Aetron](https://github.com/DB-Ducbao113/FitnessExerciseApplication)
+
+> **Research status:** EKF evaluation is ongoing; no independently verified GPS-accuracy improvement is claimed here.
+
+## Technical toolkit
+
+| Area | Technologies & skills |
+| --- | --- |
+| **Networking** | TCP/IP, VLANs, OSPF, NAT, ACLs, Wireshark, Cisco Packet Tracer |
+| **Systems** | Linux, Nginx, deployment verification, shell scripting |
+| **Development** | TypeScript, React, Node.js, Flutter, Dart |
+| **3D & UI** | Three.js, React Three Fiber, responsive web interfaces |
+| **Data & cloud** | Supabase, PostgreSQL, Cloudflare Workers (learning / migration) |
+| **Engineering practices** | Git, debugging, test evidence, benchmark design, QA checks |
+
+## Currently learning
+
+- Linux administration, system troubleshooting, and network operations.
+- Monitoring, automation, CI/CD, and cloud infrastructure foundations.
+- Reproducible testing and trustworthy performance measurements.
+
+---
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DB-Ducbao113&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DB-Ducbao113&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
-</div>
-
-<sub>These charts reflect public repository activity and language composition, not full skill level.</sub>
-<div align="center">
-
-Explore More
-<a href="https://github.com/DB-Ducbao113?tab=repositories">Repositories</a> ·
-<a href="https://github.com/DB-Ducbao113/F1-Overview">F1 Project</a> ·
-<a href="https://podiumeds.vercel.app">Live Demo</a>
+  <sub>Build thoughtfully. Measure carefully. Keep learning.</sub>
 </div>
