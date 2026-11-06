@@ -10,7 +10,7 @@
 
 ---
 
-### 01 / FEATURED PROJECTS
+<div align="center"><img src="./assets/projects-spectrum.svg" alt="Featured projects — F1, Infrastructure and Aetron" width="100%" /></div>
 
 <table>
 <tr>
@@ -21,7 +21,7 @@
 <p><a href="https://podiumeds.vercel.app">Live experience</a> · <a href="https://github.com/DB-Ducbao113/Podium-Effet-De-Sol">Repository</a> · <a href="https://github.com/DB-Ducbao113/F1-Overview">Original frontend</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/DB-Ducbao113/EnterpriseNetwork"><img src="./assets/project-infra.svg" alt="Infrastructure and networking project artwork" width="100%" /></a>
+<a href="https://github.com/DB-Ducbao113/EnterpriseNetwork"><img src="./assets/project-infra.svg" alt="Isometric neon 3D infrastructure lab with server racks and live network monitoring" width="100%" /></a>
 <p><strong>02 — INFRASTRUCTURE &amp; SYSTEMS</strong></p>
 <p>Enterprise networking, Linux deployment, TCP analysis, and evidence-based operational verification.</p>
 <p><a href="https://github.com/DB-Ducbao113/EnterpriseNetwork">Enterprise Network</a> · <a href="https://github.com/DB-Ducbao113/DeployLinuxSystem">Linux Deployment</a></p>
@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DB-Ducbao113/FitnessExerciseApplication"><img src="./assets/project-aetron.svg" alt="Aetron fitness tracking project artwork" width="100%" /></a>
+<a href="https://github.com/DB-Ducbao113/FitnessExerciseApplication"><img src="./assets/project-aetron.svg" alt="Aetron fitness tracker smartphone in purple holographic environment" width="100%" /></a>
 <p><strong>03 — AETRON · FITNESS TRACKING</strong></p>
 <p>Flutter workout sessions, GNSS processing, offline-first data, cloud sync, and GPS filtering evaluation.</p>
 <p><a href="https://github.com/DB-Ducbao113/FitnessExerciseApplication">Repository</a></p>
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-### 02 / ENGINEERING TOOLKIT
+<div align="center"><img src="./assets/toolkit-spectrum.svg" alt="Engineering Toolkit" width="100%" /></div>
 
 <div align="center">
 
@@ -63,12 +63,6 @@
 
 </div>
 
-### 03 / GITHUB ACTIVITY
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DB-Ducbao113&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f35467&icon_color=47dcca&text_color=c8d4e2" alt="GitHub contributions summary" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DB-Ducbao113&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=47dcca&text_color=c8d4e2" alt="Most used programming languages" height="165" />
-</div>
 
 ---
 
