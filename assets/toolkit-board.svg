@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="298" viewBox="0 0 1200 298" role="img">
+<defs>
+<linearGradient id="tbbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E1530"/><stop offset=".49" stop-color="#1A254B"/><stop offset="1" stop-color="#231332"/></linearGradient>
+<radialGradient id="tbglow"><stop stop-color="#FF426F" stop-opacity=".43"/><stop offset="1" stop-color="#FF426F" stop-opacity="0"/></radialGradient>
+<radialGradient id="tbcyan"><stop stop-color="#15CDE8" stop-opacity=".37"/><stop offset="1" stop-color="#15CDE8" stop-opacity="0"/></radialGradient>
+<pattern id="tbdots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#B2DDF7" fill-opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="298" rx="18" fill="url(#tbbg)"/>
+<rect width="1200" height="298" rx="18" fill="url(#tbdots)" opacity=".75"/>
+<ellipse cx="936" cy="107.28" rx="480" ry="283.09999999999997" fill="url(#tbcyan)"/>
+<ellipse cx="180" cy="268.2" rx="480" ry="283.09999999999997" fill="url(#tbglow)"/>
+<rect x="1.5" y="1.5" width="1197" height="295" rx="17" fill="none" stroke="#AB87FF" stroke-opacity=".68" stroke-width="3"/>
+<path d="M18 2H1182" stroke="#AB87FF" stroke-width="5"/>
+<rect x="34" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#F4D77A" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="64" cy="66" r="11" fill="#F4D77A" opacity=".94"/>
+<path d="M57 66h14M64 59v14" stroke="#071423" stroke-width="2"/>
+<text x="57" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">LINUX</text>
+<rect x="229" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#41BFFA" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="259" cy="66" r="11" fill="#41BFFA" opacity=".94"/>
+<path d="M252 66h14M259 59v14" stroke="#071423" stroke-width="2"/>
+<text x="252" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">DOCKER</text>
+<rect x="424" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#FF765C" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="454" cy="66" r="11" fill="#FF765C" opacity=".94"/>
+<path d="M447 66h14M454 59v14" stroke="#071423" stroke-width="2"/>
+<text x="447" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">GIT</text>
+<rect x="619" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#62E7AE" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="649" cy="66" r="11" fill="#62E7AE" opacity=".94"/>
+<path d="M642 66h14M649 59v14" stroke="#071423" stroke-width="2"/>
+<text x="642" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">NGINX</text>
+<rect x="814" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#61DFFC" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="844" cy="66" r="11" fill="#61DFFC" opacity=".94"/>
+<path d="M837 66h14M844 59v14" stroke="#071423" stroke-width="2"/>
+<text x="837" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">REACT</text>
+<rect x="1009" y="34" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#85B4FF" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="1039" cy="66" r="11" fill="#85B4FF" opacity=".94"/>
+<path d="M1032 66h14M1039 59v14" stroke="#071423" stroke-width="2"/>
+<text x="1032" y="108" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">TYPESCRIPT</text>
+<rect x="34" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#FFFFFF" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="64" cy="182" r="11" fill="#FFFFFF" opacity=".94"/>
+<path d="M57 182h14M64 175v14" stroke="#071423" stroke-width="2"/>
+<text x="57" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">THREE.JS</text>
+<rect x="229" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#85D6F8" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="259" cy="182" r="11" fill="#85D6F8" opacity=".94"/>
+<path d="M252 182h14M259 175v14" stroke="#071423" stroke-width="2"/>
+<text x="252" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">FLUTTER</text>
+<rect x="424" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#B0C7FF" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="454" cy="182" r="11" fill="#B0C7FF" opacity=".94"/>
+<path d="M447 182h14M454 175v14" stroke="#071423" stroke-width="2"/>
+<text x="447" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">POSTGRESQL</text>
+<rect x="619" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#78EDB2" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="649" cy="182" r="11" fill="#78EDB2" opacity=".94"/>
+<path d="M642 182h14M649 175v14" stroke="#071423" stroke-width="2"/>
+<text x="642" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">SUPABASE</text>
+<rect x="814" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#FFAF70" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="844" cy="182" r="11" fill="#FFAF70" opacity=".94"/>
+<path d="M837 182h14M844 175v14" stroke="#071423" stroke-width="2"/>
+<text x="837" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">CLOUDFLARE</text>
+<rect x="1009" y="150" width="181" height="100" rx="18" fill="#071423" fill-opacity=".74" stroke="#88D0FA" stroke-opacity=".42" stroke-width="2"/>
+<circle cx="1039" cy="182" r="11" fill="#88D0FA" opacity=".94"/>
+<path d="M1032 182h14M1039 175v14" stroke="#071423" stroke-width="2"/>
+<text x="1032" y="224" fill="#EAF4FF" font-family="Arial,sans-serif" font-weight="bold" font-size="20">WIRESHARK</text>
+
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="246" viewBox="0 0 1200 246" role="img">
+<defs>
+<linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E0C20"/><stop offset=".5" stop-color="#5A1437"/><stop offset="1" stop-color="#16142A"/></linearGradient>
+<radialGradient id="rglow"><stop stop-color="#FF426F" stop-opacity=".43"/><stop offset="1" stop-color="#FF426F" stop-opacity="0"/></radialGradient>
+<radialGradient id="rcyan"><stop stop-color="#15CDE8" stop-opacity=".37"/><stop offset="1" stop-color="#15CDE8" stop-opacity="0"/></radialGradient>
+<pattern id="rdots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#B2DDF7" fill-opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="246" rx="18" fill="url(#rbg)"/>
+<rect width="1200" height="246" rx="18" fill="url(#rdots)" opacity=".75"/>
+<ellipse cx="936" cy="88.56" rx="480" ry="233.7" fill="url(#rcyan)"/>
+<ellipse cx="180" cy="221.4" rx="480" ry="233.7" fill="url(#rglow)"/>
+<rect x="1.5" y="1.5" width="1197" height="243" rx="17" fill="none" stroke="#FF5C7A" stroke-opacity=".68" stroke-width="3"/>
+<path d="M18 2H1182" stroke="#FF5C7A" stroke-width="5"/>
+<g transform="translate(854 11)" opacity=".44" stroke="#FF809A" fill="none" stroke-width="3">
+<path d="M56 4L238 4L355 122L235 242L66 242L-29 122Z"/><path d="M56 38L229 38L319 122L226 207L70 207L9 122Z" stroke-dasharray="12 9"/>
+</g>
+<path d="M762 0L988 246M829 0L1052 246M895 0L1120 246" stroke="#F36784" stroke-opacity=".22" stroke-width="3"/>
+<text x="34" y="58" font-family="monospace" font-size="20" fill="#FF9BAF" letter-spacing="3">01  /  MOTORSPORT EXPERIENCE</text>
+<text x="34" y="133" font-family="Arial,sans-serif" font-size="62" font-weight="900" fill="#FFFFFF">PODIUM F1</text>
+<text x="36" y="177" font-family="Arial,sans-serif" font-size="27" fill="#FFD5E3">Racing data. Team stories. Immersive 3D.</text>
+<text x="36" y="213" font-family="monospace" font-size="19" fill="#FFA2B8">REACT / TYPESCRIPT / THREE.JS</text>
+</svg>

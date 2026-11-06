@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img">
+<defs>
+<linearGradient id="inbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111326"/><stop offset=".52" stop-color="#132B40"/><stop offset="1" stop-color="#261238"/></linearGradient>
+<radialGradient id="inglow"><stop stop-color="#FF426F" stop-opacity=".43"/><stop offset="1" stop-color="#FF426F" stop-opacity="0"/></radialGradient>
+<radialGradient id="incyan"><stop stop-color="#15CDE8" stop-opacity=".37"/><stop offset="1" stop-color="#15CDE8" stop-opacity="0"/></radialGradient>
+<pattern id="indots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#B2DDF7" fill-opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="164" rx="18" fill="url(#inbg)"/>
+<rect width="1200" height="164" rx="18" fill="url(#indots)" opacity=".75"/>
+<ellipse cx="936" cy="59.04" rx="480" ry="155.79999999999998" fill="url(#incyan)"/>
+<ellipse cx="180" cy="147.6" rx="480" ry="155.79999999999998" fill="url(#inglow)"/>
+<rect x="1.5" y="1.5" width="1197" height="161" rx="17" fill="none" stroke="#57E5F5" stroke-opacity=".68" stroke-width="3"/>
+<path d="M18 2H1182" stroke="#57E5F5" stroke-width="5"/>
+<rect x="33" y="29" width="15" height="15" rx="3" fill="#4EEBD9"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></rect>
+<text x="62" y="42" fill="#AEFAF2" font-family="monospace" font-size="21" font-weight="bold" letter-spacing="2">PROFILE / ENGINEER</text>
+<text x="33" y="96" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="29" font-weight="bold">DEVOPS / CLOUD  ·  SYSTEMS  ·  INTERACTIVE SOFTWARE</text>
+<text x="35" y="132" fill="#B1CAE2" font-family="Arial,sans-serif" font-size="20">Building reliable systems, measuring results, and engineering immersive experiences.</text>
+<g transform="translate(1050 76)" fill="none" stroke="#66ECF3" stroke-width="2">
+<circle r="47" stroke-dasharray="5 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="21s" repeatCount="indefinite"/></circle>
+<circle r="27" stroke="#EA7CFF"/><path d="M-14 0H14M0-14V14" stroke-width="3"/>
+</g></svg>
