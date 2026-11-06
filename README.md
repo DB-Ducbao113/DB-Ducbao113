@@ -1,86 +1,77 @@
 <div align="center">
-
-<h1>My name is Nguyen Duc Bao </h1>
-
-<p><strong>Network Engineering · Systems · Software Development</strong></p>
-
-<p>
-  IT student focused on practical networking, reliable systems, and interactive software.<br>
-  Building toward <strong>System Engineering</strong> and, in the longer term, <strong>Cloud / DevOps</strong>.
-</p>
-
-<img src="./f1-chibi-2026.gif" alt="Animated chibi Formula 1 cars changing between 11 teams" width="560">
-
-<p>
-  <a href="https://github.com/DB-Ducbao113?tab=repositories">Explore my repositories</a>
-</p>
-
+  <a href="https://github.com/DB-Ducbao113"><img src="./assets/hero-motion.svg" width="100%" alt="Nguyen Duc Bao — DevOps, Cloud and interactive software" /></a>
+  <p><strong>DEVOPS / CLOUD</strong> &nbsp; · &nbsp; <strong>SYSTEMS &amp; NETWORKING</strong> &nbsp; · &nbsp; <strong>INTERACTIVE SOFTWARE</strong></p>
+  <p>
+    <a href="https://podiumeds.vercel.app"><img src="https://img.shields.io/badge/LIVE_F1_PROJECT-F35467?style=for-the-badge&logo=vercel&logoColor=white" alt="Live F1 project" /></a>
+    <a href="https://github.com/DB-Ducbao113?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-14243A?style=for-the-badge&logo=github&logoColor=white" alt="Explore code" /></a>
+  </p>
+  <p><i>Building reliable systems, measurable performance, and software with a distinct visual experience.</i></p>
 </div>
 
 ---
 
-## About me
+### 01 / FEATURED PROJECTS
 
-I'm an Information Technology student specializing in **Network Engineering** at International University (IU), Vietnam. I enjoy understanding how systems communicate, troubleshooting problems with evidence, and building software that connects technical ideas with a useful experience.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://podiumeds.vercel.app"><img src="./f1-chibi-2026.gif" alt="Animated Formula 1 chibi cars for Podium Effet De Sol" width="100%" /></a>
+<p><strong>01 — PODIUM EFFET DE SOL · FORMULA 1</strong></p>
+<p>Interactive F1 experience: racing seasons, drivers, teams, and a 3D car showroom. React, TypeScript, and Three.js.</p>
+<p><a href="https://podiumeds.vercel.app">Live experience</a> · <a href="https://github.com/DB-Ducbao113/Podium-Effet-De-Sol">Repository</a> · <a href="https://github.com/DB-Ducbao113/F1-Overview">Original frontend</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/DB-Ducbao113/EnterpriseNetwork"><img src="./assets/project-infra.svg" alt="Infrastructure and networking project artwork" width="100%" /></a>
+<p><strong>02 — INFRASTRUCTURE &amp; SYSTEMS</strong></p>
+<p>Enterprise networking, Linux deployment, TCP analysis, and evidence-based operational verification.</p>
+<p><a href="https://github.com/DB-Ducbao113/EnterpriseNetwork">Enterprise Network</a> · <a href="https://github.com/DB-Ducbao113/DeployLinuxSystem">Linux Deployment</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DB-Ducbao113/FitnessExerciseApplication"><img src="./assets/project-aetron.svg" alt="Aetron fitness tracking project artwork" width="100%" /></a>
+<p><strong>03 — AETRON · FITNESS TRACKING</strong></p>
+<p>Flutter workout sessions, GNSS processing, offline-first data, cloud sync, and GPS filtering evaluation.</p>
+<p><a href="https://github.com/DB-Ducbao113/FitnessExerciseApplication">Repository</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>NOW BUILDING</h3>
+<p><strong>DevOps / Cloud Engineering</strong></p>
+<p>Hands-on systems work with an emphasis on automated deployment, monitoring, repeatable testing, and troubleshooting.</p>
+<p><code>LINUX → CONTAINERS → CI/CD → OBSERVABILITY → CLOUD</code></p>
+<p><strong>Operating principle:</strong> verify behavior, measure results, keep changes small and reproducible.</p>
+</td>
+</tr>
+</table>
 
-My current interests span **enterprise networks, Linux operations, application development, and engineering validation**. I am developing my skills step by step toward systems engineering and eventually Cloud / DevOps.
+### 02 / ENGINEERING TOOLKIT
 
-## Featured projects
+<div align="center">
 
-### 01 — Network Engineering | Infrastructure & Traffic Analysis
+![Linux](https://img.shields.io/badge/Linux-111D30?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111D30?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111D30?style=flat-square&logo=git&logoColor=F05032)
+![Nginx](https://img.shields.io/badge/Nginx-111D30?style=flat-square&logo=nginx&logoColor=009639)
+![React](https://img.shields.io/badge/React-111D30?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111D30?style=flat-square&logo=typescript&logoColor=3178C6)
+![Three.js](https://img.shields.io/badge/Three.js-111D30?style=flat-square&logo=threedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111D30?style=flat-square&logo=flutter&logoColor=02569B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111D30?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-111D30?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111D30?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Wireshark](https://img.shields.io/badge/Wireshark-111D30?style=flat-square&logo=wireshark&logoColor=1679A7)
 
-A collection of hands-on projects focused on how networks are designed, operated, observed, and verified.
+</div>
 
-- **[Enterprise Network Design](https://github.com/DB-Ducbao113/EnterpriseNetwork)** — Designed a simulated **two-site enterprise network** in Cisco Packet Tracer with VLANs, trunking, inter-VLAN routing, OSPF, NAT overload, ACLs, DHCP, DNS, and HTTP services. Checked behavior using routing tables, DHCP bindings, NAT translations, and service tests.
-- **[TCP Performance & Reliability Analysis](https://github.com/DB-Ducbao113/TCP-Performance-Analysis)** — Analyzed captured traffic with Wireshark, including RTT, throughput, retransmissions, duplicate ACKs, and TCP loss-recovery behavior.
-- **[Linux Web System Deployment](https://github.com/DB-Ducbao113/DeployLinuxSystem)** — Practiced Ubuntu Server and Nginx deployment using symlink-based releases, HTTP verification, and rollback after a failed check.
+### 03 / GITHUB ACTIVITY
 
-**Tools & concepts:** Cisco Packet Tracer · Wireshark · TCP/IP · VLAN · OSPF · Linux · Nginx
-
-### 02 — Podium Effet De Sol | Formula 1 Web & 3D Experience
-
-A motorsport-focused web project that brings together **Formula 1 information, interactive exploration, and 3D car experiences**.
-
-- Developed a frontend prototype with season pages, race results, driver/team profiles, and an interactive 3D showroom.
-- Explored 3D model interaction, car anatomy, configurable liveries, and performance-aware rendering.
-- Started a **clean-architecture migration** that separates the web frontend, API, synchronization jobs, and shared packages, targeting Cloudflare Workers.
-
-**Tech:** React · TypeScript · Vite · Three.js · React Three Fiber · Cloudflare Workers (migration)
-
-**Repositories:** [Current migration workspace](https://github.com/DB-Ducbao113/Podium-Effet-De-Sol) · [Original F1 frontend](https://github.com/DB-Ducbao113/F1-Overview)
-
-### 03 — Aetron | Fitness App & GPS Filtering Research
-
-A cross-platform fitness application that combines workout tracking with a cloud-backed architecture and ongoing GPS-quality research.
-
-- Built application flows for workout tracking and outdoor activity routes using **Flutter / Dart**.
-- Integrated **Supabase** for cloud-backed application services and data.
-- Investigating **Extended Kalman Filter (EKF)** techniques for GPS smoothing, with attention to input consistency, live/replay behavior, and comparisons against a baseline pipeline.
-- Preparing field-data evaluation and reproducible metrics rather than assuming a filter is more accurate without independent evidence.
-
-**Tech:** Flutter · Dart · Supabase · GPS data processing · EKF evaluation
-
-**Repository:** [FitnessExerciseApplication — Aetron](https://github.com/DB-Ducbao113/FitnessExerciseApplication)
-
-## Technical toolkit
-
-| Area | Technologies & skills |
-| --- | --- |
-| **Networking** | TCP/IP, VLANs, OSPF, NAT, ACLs, Wireshark, Cisco Packet Tracer |
-| **Systems** | Linux, Nginx, deployment verification, shell scripting |
-| **Development** | TypeScript, React, Node.js, Flutter, Dart |
-| **3D & UI** | Three.js, React Three Fiber, responsive web interfaces |
-| **Data & cloud** | Supabase, PostgreSQL, Cloudflare Workers (learning / migration) |
-| **Engineering practices** | Git, debugging, test evidence, benchmark design, QA checks |
-
-## Currently learning
-
-- Linux administration, system troubleshooting, and network operations.
-- Monitoring, automation, CI/CD, and cloud infrastructure foundations.
-- Reproducible testing and trustworthy performance measurements.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DB-Ducbao113&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=f35467&icon_color=47dcca&text_color=c8d4e2" alt="GitHub contributions summary" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DB-Ducbao113&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=47dcca&text_color=c8d4e2" alt="Most used programming languages" height="165" />
+</div>
 
 ---
 
 <div align="center">
-  <sub>Build thoughtfully. Measure carefully. Keep learning.</sub>
+<sub>NGUYEN DUC BAO &nbsp; / &nbsp; BUILD • DEPLOY • OBSERVE • IMPROVE</sub>
 </div>

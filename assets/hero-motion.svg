@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Nguyen Duc Bao - DevOps, Cloud and Interactive Engineering">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".62" stop-color="#0B1628"/><stop offset="1" stop-color="#071621"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#2DE1D0" stop-opacity=".29"/><stop offset="1" stop-color="#2DE1D0" stop-opacity="0"/></radialGradient>
+ <radialGradient id="red"><stop stop-color="#F35467" stop-opacity=".18"/><stop offset="1" stop-color="#F35467" stop-opacity="0"/></radialGradient>
+ <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4FCFF"/><stop offset=".6" stop-color="#9EC8D7"/><stop offset="1" stop-color="#47DCCA"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1E4A5D"/><stop offset="1" stop-color="#0D253A"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#78A9BE" stroke-opacity=".085"/></pattern>
+ <clipPath id="clip"><rect x="0" y="0" width="1200" height="420" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+ <rect width="1200" height="420" fill="url(#grid)"/>
+ <ellipse cx="955" cy="189" rx="340" ry="260" fill="url(#glow)"/>
+ <ellipse cx="130" cy="410" rx="410" ry="170" fill="url(#red)"/>
+ <path d="M0 0H1200" stroke="#48E5D5" stroke-width="5"/>
+ <path d="M57 70H134" stroke="#F35467" stroke-width="3"/>
+ <text x="58" y="61" fill="#53E6D8" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="bold" letter-spacing="3">DB / ENGINEERING PORTFOLIO</text>
+ <text x="55" y="148" fill="#F1F6FC" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="-1">NGUYEN DUC BAO</text>
+ <text x="58" y="199" fill="#47DCCA" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="bold" letter-spacing="3">DEVOPS / CLOUD ENGINEERING</text>
+ <text x="59" y="235" fill="#BACDDF" font-family="Arial,Helvetica,sans-serif" font-size="22">Systems · Networks · Interactive Software</text>
+ <path d="M57 267H655" stroke="#315164" stroke-width="2"/>
+ <rect x="58" y="290" width="188" height="44" rx="9" fill="#162B3A" stroke="#386377"/>
+ <rect x="260" y="290" width="167" height="44" rx="9" fill="#19283C" stroke="#465F85"/>
+ <rect x="441" y="290" width="194" height="44" rx="9" fill="#332030" stroke="#7A3F55"/>
+ <text x="152" y="318" text-anchor="middle" fill="#94F4E8" font-family="monospace" font-size="18">BUILD</text>
+ <text x="343" y="318" text-anchor="middle" fill="#D7D9FF" font-family="monospace" font-size="18">DEPLOY</text>
+ <text x="539" y="318" text-anchor="middle" fill="#FF9FAC" font-family="monospace" font-size="18">OBSERVE</text>
+ <g opacity=".8" fill="none" stroke="#47DCCA" stroke-width="1.5">
+   <ellipse cx="961" cy="206" rx="195" ry="76" transform="rotate(-26 961 206)" stroke-dasharray="12 12">
+    <animateTransform attributeName="transform" type="rotate" from="-26 961 206" to="334 961 206" dur="24s" repeatCount="indefinite"/>
+   </ellipse>
+   <ellipse cx="961" cy="206" rx="195" ry="77" transform="rotate(29 961 206)" stroke="#A0A0FF" stroke-opacity=".6" stroke-dasharray="4 9">
+    <animateTransform attributeName="transform" type="rotate" from="29 961 206" to="-331 961 206" dur="35s" repeatCount="indefinite"/>
+   </ellipse>
+ </g>
+ <g transform="translate(956 197)">
+   <path d="M0-130L135-60L135 72L0 145L-135 72L-135-60Z" fill="#0A2333" fill-opacity=".5" stroke="#45C4C5" stroke-opacity=".35" stroke-width="2"/>
+   <path d="M0-108L113-48L0 13L-113-48Z" fill="#24566E" stroke="#75F7ED" stroke-width="2.5"/>
+   <path d="M-113-48L0 13V122L-113 60Z" fill="url(#face)" stroke="#4FE7DD" stroke-width="2.5"/>
+   <path d="M0 13L113-48V60L0 122Z" fill="#0C223D" stroke="#6CB7DB" stroke-width="2.5"/>
+   <path d="M-72 0L-16 30M-72 22L-16 52M-72 44L-16 74" fill="none" stroke="#65F3E8" stroke-width="5" stroke-linecap="round"/>
+   <path d="M22 34L82 0M22 57L82 24M22 80L82 47" fill="none" stroke="#72A9FF" stroke-width="5" stroke-linecap="round"/>
+   <path d="M0-108V-142M-113-48L-157-69M113-48L159-68M-113 60L-154 83M113 60L151 83" stroke="#4EECD9" stroke-opacity=".6" stroke-width="2" stroke-dasharray="5 8">
+    <animate attributeName="stroke-dashoffset" values="0;-52" dur="4s" repeatCount="indefinite"/>
+   </path>
+   <g fill="#50EBDD"><circle cx="0" cy="-142" r="8"/><circle cx="-157" cy="-69" r="7"/><circle cx="159" cy="-68" r="7"/><circle cx="-154" cy="83" r="7"/><circle cx="151" cy="83" r="7"/></g>
+   <circle cx="0" cy="-142" r="15" fill="none" stroke="#47DCCA"><animate attributeName="r" values="9;21;9" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".85;.08;.85" dur="3s" repeatCount="indefinite"/></circle>
+ </g>
+ <path d="M58 372H1144" stroke="#2A455B"/>
+ <circle cx="74" cy="394" r="5" fill="#47DCCA"><animate attributeName="opacity" values="1;.18;1" dur="2s" repeatCount="indefinite"/></circle>
+ <text x="91" y="400" fill="#9DB3C9" font-family="monospace" font-size="15">LEARNING IN PUBLIC  /  VERIFY BEFORE DONE</text>
+ <text x="1137" y="400" text-anchor="end" fill="#9DB3C9" font-family="monospace" font-size="15">HO CHI MINH CITY  ·  2026</text>
+ <rect x="1.5" y="1.5" width="1197" height="417" rx="19" fill="none" stroke="#558394" stroke-opacity=".47" stroke-width="3"/>
+</g>
+</svg>

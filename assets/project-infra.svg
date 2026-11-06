@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460" role="img" aria-label="INFRASTRUCTURE">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1525"/><stop offset="1" stop-color="#07101A"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#47DCCA" stop-opacity=".34"/><stop offset="1" stop-color="#47DCCA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#89B4D4" stroke-opacity=".055"/></pattern></defs>
+<rect width="960" height="460" rx="24" fill="url(#bg)"/><rect width="960" height="460" rx="24" fill="url(#grid)"/>
+<ellipse cx="715" cy="232" rx="345" ry="260" fill="url(#halo)"/><path d="M0 0H960" stroke="#47DCCA" stroke-width="8"/>
+<text x="48" y="73" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="bold" fill="#47DCCA" letter-spacing="4">02 / SYSTEMS ENGINEERING</text>
+<text x="48" y="163" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="bold" fill="#F4F8FF">INFRASTRUCTURE</text>
+<text x="49" y="207" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#B8CADC">Linux, networks and DevOps labs</text>
+<path d="M49 249H390" stroke="#47DCCA" stroke-opacity=".4"/>
+<text x="49" y="388" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#9CB2C7">Linux / Networking / Observability</text>
+<text x="879" y="410" font-family="monospace" font-size="24" fill="#47DCCA" text-anchor="end">02 / 03</text>
+<g transform="translate(562 82)" stroke-linejoin="round">
+<g fill="none" stroke="#42E4DB" stroke-width="3" opacity=".75"><path d="M90 215L210 100L340 190L224 300Z"/><path d="M90 215L90 95L210-10L210 100"/><path d="M210-10L340 75L340 190"/><path d="M90 95L224 176L340 75"/><path d="M224 176L224 300"/></g>
+<g fill="#0C2331" stroke="#4EE6E2" stroke-width="3"><path d="M125 171L194 113L270 161L202 221Z"/><path d="M125 171V235L202 283V221Z" fill="#103246"/><path d="M202 221L270 161V227L202 283Z" fill="#09222E"/></g>
+<g stroke="#72FAE6" stroke-width="4"><path d="M143 202L191 233"/><path d="M145 225L190 253"/><path d="M214 230L254 194"/><path d="M213 252L254 219"/></g>
+<g fill="#FF6676"><circle cx="90" cy="95" r="8"/><circle cx="210" cy="-10" r="8"/><circle cx="340" cy="75" r="8"/><circle cx="340" cy="190" r="8"/></g></g>
+<rect x="1.5" y="1.5" width="957" height="457" rx="23" fill="none" stroke="#51738E" stroke-opacity=".4" stroke-width="3"/>
+</svg>
