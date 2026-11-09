@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset=".62" stop-color="#0B1C32"/><stop offset="1" stop-color="#0B182A"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#465273"/><stop offset="1" stop-color="#11162B"/></linearGradient>
+<linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2A4562"/><stop offset="1" stop-color="#0D182E"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#65C8D9" stroke-opacity=".07" fill="none"/></pattern>
+</defs>
+<rect x="0" y="0" width="1000" height="430" rx="23" fill="url(#bg)"/>
+<rect x="0" y="0" width="1000" height="430" rx="23" fill="url(#grid)"/>
+<path d="M30 397H970" fill="none" stroke="#44D4DF" stroke-width="2" stroke-opacity=".36"/>
+<rect x="32" y="27" width="112" height="5" rx="2.5" fill="#49DBE7"/><rect x="150" y="27" width="51" height="5" rx="2.5" fill="#F35168"/>
+<g transform="translate(877 26)"><rect width="13" height="13" rx="3" fill="#4DE3EB"/><rect x="20" width="13" height="13" rx="3" fill="#4DE3EB" opacity=".45"/><rect x="40" width="13" height="13" rx="3" fill="#F35168"/></g>
+
+<text x="38" y="88" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#80DDE9" font-weight="700">03 / MOBILE</text>
+<text x="38" y="166" font-family="Arial,sans-serif" font-size="70" fill="#F3FBFF" font-weight="900">AETRON</text>
+<text x="42" y="214" font-family="Arial,sans-serif" font-size="33" fill="#F35168" font-weight="800">FITNESS TRACKING</text>
+<text x="42" y="259" font-family="Arial,sans-serif" font-size="22" fill="#BFCDDB">Activity / GNSS / Offline Sync</text>
+<text x="42" y="296" font-family="monospace" font-size="16" fill="#83C4D1">MOVE  /  MEASURE  /  SYNC</text>
+<g transform="translate(770 59) rotate(7 85 153)">
+<rect width="171" height="300" rx="31" fill="#12192C" stroke="#57DFEC" stroke-width="6"/>
+<rect x="12" y="15" width="147" height="270" rx="20" fill="#102D48"/>
+<rect x="56" y="12" width="59" height="13" rx="7" fill="#0A142A"/>
+<text x="29" y="58" fill="#EAF9FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">Aetron</text>
+<circle cx="86" cy="142" r="54" fill="none" stroke="#254C66" stroke-width="13"/>
+<path d="M86 88A54 54 0 1 1 34 156" fill="none" stroke="#55E5EC" stroke-width="12" stroke-linecap="round"/>
+<text x="86" y="139" fill="#F2FAFF" font-family="Arial,sans-serif" font-size="31" font-weight="800" text-anchor="middle">5.24</text>
+<text x="86" y="159" fill="#A1CFDE" font-family="monospace" font-size="14" text-anchor="middle">KM</text>
+<path d="M24 249L47 229L65 234L83 210L105 218L131 194L151 202" stroke="#FF7184" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+<g transform="translate(642 93) scale(0.87)">
+<ellipse cx="0" cy="234" rx="100" ry="14" fill="#010B19" opacity=".5"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
+<!-- chibi feet -->
+<path d="M-37 171L-76 208L-91 199L-59 157Z" fill="#233958" stroke="#0A1429" stroke-width="6"/>
+<path d="M30 172L66 197L80 185L53 158Z" fill="#233958" stroke="#0A1429" stroke-width="6"/>
+<path d="M-94 193Q-109 210-86 219H-57Q-48 208-70 201Z" fill="#F1FBFF" stroke="#131A30" stroke-width="5"/>
+<path d="M61 190Q78 180 94 191Q106 207 85 211H55Z" fill="#F1FBFF" stroke="#131A30" stroke-width="5"/>
+<path d="M-72 139Q-78 126-48 116Q0 93 52 117Q80 131 72 184Q32 203-1 199Q-38 200-73 183Z" fill="url(#cloth)" stroke="#11182F" stroke-width="7"/>
+<path d="M-22 135L1 156L24 135M-10 155V178M12 155V178" stroke="#F25469" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M-54 136Q-89 108-105 140L-91 160L-54 164Z" fill="#314B6B" stroke="#11182F" stroke-width="6"/>
+<path d="M54 136Q84 156 102 138L112 160Q86 179 58 165Z" fill="#314B6B" stroke="#11182F" stroke-width="6"/>
+<circle cx="-103" cy="147" r="13" fill="#F4B69E" stroke="#11182F" stroke-width="5"/><circle cx="110" cy="150" r="13" fill="#F4B69E" stroke="#11182F" stroke-width="5"/>
+<!-- oversize head -->
+<path d="M-77 53Q-78-14-5-25Q80-20 78 62L75 98Q70 147 4 158Q-61 150-76 108Z" fill="#FFD5BD" stroke="#11182D" stroke-width="7"/>
+<path d="M-79 58Q-90-1-55-29Q-9-73 44-39Q83-18 82 50L66 47L39 19L11 37L-24 16L-52 48Z" fill="url(#hair)" stroke="#11182D" stroke-width="7"/>
+<path d="M-57 0Q-26-49 41-29L71 3Q5-20-57 26Z" fill="#F4F7FB" stroke="#11182D" stroke-width="6"/>
+<path d="M-30-32L-6-35L28-5L8 0Z" fill="#E94A60"/>
+<path d="M-69 22Q-10-10 73 19L63 37Q-4 12-65 42Z" fill="#273A56" stroke="#10182F" stroke-width="5"/>
+<rect x="-86" y="52" width="25" height="59" rx="12" fill="#273B59" stroke="#11182D" stroke-width="6"/><rect x="63" y="52" width="25" height="59" rx="12" fill="#273B59" stroke="#11182D" stroke-width="6"/>
+<path d="M-73 65V99M75 65V99" stroke="#58E4F2" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="-30" cy="81" rx="8" ry="14" fill="#16243B"/><ellipse cx="29" cy="81" rx="8" ry="14" fill="#16243B"/>
+<ellipse cx="-33" cy="76" rx="3.5" ry="5" fill="#FDFEFF"/><ellipse cx="26" cy="76" rx="3.5" ry="5" fill="#FDFEFF"/>
+<ellipse cx="-49" cy="108" rx="13" ry="7" fill="#F38FA0" opacity=".52"/><ellipse cx="51" cy="108" rx="13" ry="7" fill="#F38FA0" opacity=".52"/>
+<path d="M-17 109Q2 132 22 107" stroke="#A93B4B" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+
+</g>
+
+<rect x="2" y="2" width="996" height="426" rx="21" fill="none" stroke="#4CDCEA" stroke-width="3" stroke-opacity=".80"/>
+</svg>
