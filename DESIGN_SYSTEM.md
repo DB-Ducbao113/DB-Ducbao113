@@ -1,8 +1,17 @@
-# Profile Design — Compact Chibi
+# Compact GitHub Profile Design
 
-- Main README layout: short hero; visible original F1 GIF; two project images side-by-side; short toolkit.
-- Hero is `assets/chibi-hero.svg`; infra and Aetron cards are `assets/chibi-infra.svg` and `assets/chibi-aetron.svg`.
-- All new illustrations use the same navy/cyan/coral palette, character construction, rounded border and minimal animation.
-- Original `f1-chibi-2026.gif` must remain unchanged and prominently displayed in the README, not hidden in a collapsed block.
-- Preserve authentic project descriptions. InfraOps is a learning/work-in-progress focus, not a claim of a completed production deployment.
-- Earlier SVGs remain in the repository for rollback, but are no longer embedded in README.
+This README uses the **original animated GIFs generated for the chibi profile**, instead of replacement vector approximations.
+
+## Featured assets
+
+- `assets/chibi-hero.gif` — chibi developer banner, 720 × 358, six animated frames
+- `assets/chibi-f1.gif` — new Podium F1 chibi art, 534 × 481, six frames
+- `f1-chibi-2026.gif` — user's original F1 car animation, preserved byte-for-byte
+- `assets/chibi-infra.gif` — chibi InfraOps Lab, 535 × 481, six frames
+- `assets/chibi-aetron.gif` — chibi Aetron, 535 × 481, six frames
+
+## Visual policy
+
+Navy/cyan/coral chibi art across all featured project images. Short introduction, two-row project table, concise links and short toolkit. Avoid additional section banners and unrelated graphics.
+
+Older SVG variants stay in the repository as archives, but must not be used in the README.
