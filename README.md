@@ -2,7 +2,7 @@
 
 <a href="https://github.com/DB-Ducbao113"><img src="./assets/chibi-hero.svg" alt="Nguyen Duc Bao - chibi developer portfolio" width="100%" /></a>
 
-**DevOps / Cloud** · Systems · Interactive Software
+<strong>DevOps / Cloud</strong> · Systems · Interactive Software
 
 <p>
 <a href="https://podiumeds.vercel.app"><img src="https://img.shields.io/badge/Live_F1_Project-F35168?style=flat-square&logo=vercel&logoColor=white" alt="Live F1 Project" /></a>
@@ -15,7 +15,7 @@
 <div align="center">
 <a href="https://podiumeds.vercel.app"><img src="./f1-chibi-2026.gif" width="100%" alt="Original animated Formula 1 chibi GIF — Podium Effet De Sol" /></a>
 
-**PODIUM F1** · Interactive Formula 1 experience
+<strong>PODIUM F1</strong> · Interactive Formula 1 experience
 
 <a href="https://podiumeds.vercel.app">Live website</a> · <a href="https://github.com/DB-Ducbao113/Podium-Effet-De-Sol">Repository</a>
 </div>
