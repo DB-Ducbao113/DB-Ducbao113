@@ -1,30 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
-<defs>
-<linearGradient id="nbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081B2D"/><stop offset=".5" stop-color="#11374B"/><stop offset="1" stop-color="#211239"/></linearGradient>
-<radialGradient id="nglow"><stop stop-color="#FF426F" stop-opacity=".43"/><stop offset="1" stop-color="#FF426F" stop-opacity="0"/></radialGradient>
-<radialGradient id="ncyan"><stop stop-color="#15CDE8" stop-opacity=".37"/><stop offset="1" stop-color="#15CDE8" stop-opacity="0"/></radialGradient>
-<pattern id="ndots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#B2DDF7" fill-opacity=".22"/></pattern>
-</defs>
-<rect width="1200" height="300" rx="18" fill="url(#nbg)"/>
-<rect width="1200" height="300" rx="18" fill="url(#ndots)" opacity=".75"/>
-<ellipse cx="936" cy="108" rx="480" ry="285" fill="url(#ncyan)"/>
-<ellipse cx="180" cy="270" rx="480" ry="285" fill="url(#nglow)"/>
-<rect x="1.5" y="1.5" width="1197" height="297" rx="17" fill="none" stroke="#4AE8DC" stroke-opacity=".68" stroke-width="3"/>
-<path d="M18 2H1182" stroke="#4AE8DC" stroke-width="5"/>
-<text x="39" y="59" fill="#8EFFEE" font-size="20" font-family="monospace" letter-spacing="3">04 / WHAT I'M BUILDING NEXT</text>
-<text x="39" y="125" fill="white" font-size="50" font-family="Arial,sans-serif" font-weight="900">DEVOPS &amp; CLOUD</text>
-<text x="41" y="166" fill="#C3E1F3" font-size="23" font-family="Arial,sans-serif">CI/CD workflows · Linux operations · Monitoring · Automation</text>
-<g font-family="monospace" font-size="20" fill="#98F5E6" text-anchor="middle">
-<rect x="41" y="197" width="173" height="46" rx="10" fill="#09273B" stroke="#399DA7"/>
-<rect x="226" y="197" width="172" height="46" rx="10" fill="#09273B" stroke="#399DA7"/>
-<rect x="410" y="197" width="172" height="46" rx="10" fill="#09273B" stroke="#399DA7"/>
-<rect x="594" y="197" width="216" height="46" rx="10" fill="#09273B" stroke="#399DA7"/>
-<text x="127" y="227">BUILD</text><text x="312" y="227">DEPLOY</text><text x="496" y="227">TEST</text><text x="702" y="227">OBSERVE</text>
-</g>
-<g transform="translate(958 146)" fill="none">
-<circle r="93" stroke="#77DEFC" stroke-width="2" stroke-dasharray="13 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></circle>
-<circle r="66" stroke="#D18DFF" stroke-width="2" stroke-dasharray="5 10"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/></circle>
-<path d="M0-48L43-23L43 25L0 50L-43 25L-43-23Z" fill="#092D45" stroke="#5EF6DE" stroke-width="3"/>
-<path d="M0-48V50M-43-23L43 25M43-23L-43 25" stroke="#5EF6DE" stroke-opacity=".6" stroke-width="2"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="268" viewBox="0 0 1200 268" role="img" aria-label="Now building DevOps and Cloud engineering">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".6" stop-color="#0D2036"/><stop offset="1" stop-color="#071621"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4BE5DA" stop-opacity=".19"/><stop offset="1" stop-color="#4BE5DA" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="268" rx="18" fill="url(#bg)"/><ellipse cx="950" cy="140" rx="310" ry="175" fill="url(#glow)"/>
+<path d="M35 26H1165M35 241H1165" stroke="#426B82" stroke-opacity=".45"/>
+<path d="M35 26H130" stroke="#4BE5DA" stroke-width="4"/>
+<text x="40" y="60" fill="#4BE5DA" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2.2">02 / CURRENT FOCUS</text>
+<text x="40" y="126" fill="#F4FAFF" font-family="Arial,sans-serif" font-size="48" font-weight="900">DEVOPS &amp; CLOUD</text>
+<text x="43" y="163" fill="#BDCBDC" font-family="Arial,sans-serif" font-size="21">Linux operations. Repeatable deployments. Observable systems.</text>
+<text x="43" y="210" fill="#89B2C9" font-family="monospace" font-size="17">BUILD  /  TEST  /  DEPLOY  /  OBSERVE</text>
+<g transform="translate(714 73)" stroke-width="2">
+<path d="M0 83H435" stroke="#4BE5DA" stroke-opacity=".44" stroke-dasharray="9 8"/>
+<g><rect x="0" y="46" width="98" height="73" rx="12" fill="#112B40" stroke="#56CFCF"/><path d="M18 64H78M18 77H78M18 90H52" stroke="#78EADE" opacity=".8"/><circle cx="78" cy="92" r="5" fill="#4BE5DA"/><text x="49" y="143" text-anchor="middle" fill="#C7DCEA" font-size="15" font-family="monospace">LINUX</text></g>
+<g transform="translate(117 0)"><rect x="0" y="46" width="98" height="73" rx="12" fill="#112B40" stroke="#56CFCF"/><path d="M20 67L37 82L20 97M45 97H78" stroke="#76E7E0" stroke-width="4" fill="none"/><text x="49" y="143" text-anchor="middle" fill="#C7DCEA" font-size="15" font-family="monospace">CI / CD</text></g>
+<g transform="translate(234 0)"><rect x="0" y="46" width="98" height="73" rx="12" fill="#112B40" stroke="#56CFCF"/><path d="M14 96L32 82L48 88L61 66L81 75" stroke="#76E7E0" stroke-width="4" fill="none"/><text x="49" y="143" text-anchor="middle" fill="#C7DCEA" font-size="15" font-family="monospace">MONITOR</text></g>
+<g transform="translate(351 0)"><rect x="0" y="46" width="98" height="73" rx="12" fill="#112B40" stroke="#56CFCF"/><path d="M20 91C9 73 30 63 42 69C53 50 80 63 76 79C95 81 93 100 75 100H31C22 100 20 96 20 91Z" fill="none" stroke="#76E7E0" stroke-width="3"/><text x="49" y="143" text-anchor="middle" fill="#C7DCEA" font-size="15" font-family="monospace">CLOUD</text></g>
+</g><rect x="1.5" y="1.5" width="1197" height="265" rx="17" fill="none" stroke="#50798E" stroke-opacity=".5" stroke-width="2"/></svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img">
 <defs>
-<linearGradient id="ib" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06172D"/><stop offset=".47" stop-color="#073753"/><stop offset="1" stop-color="#091A3B"/></linearGradient>
+<linearGradient id="ib" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".47" stop-color="#0D2036"/><stop offset="1" stop-color="#071621"/></linearGradient>
 <radialGradient id="ig1"><stop stop-color="#00CDE8" stop-opacity=".55"/><stop offset="1" stop-color="#00CDE8" stop-opacity="0"/></radialGradient>
 <radialGradient id="ig2"><stop stop-color="#1F5CFF" stop-opacity=".43"/><stop offset="1" stop-color="#1F5CFF" stop-opacity="0"/></radialGradient>
 <linearGradient id="iglass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A6F6FF" stop-opacity=".17"/><stop offset=".5" stop-color="#A6F6FF" stop-opacity=".025"/><stop offset="1" stop-color="#A6F6FF" stop-opacity=".11"/></linearGradient>
@@ -31,19 +31,19 @@
  <rect x="743" y="163" width="80" height="232" rx="3" fill="#0C1830" stroke="#247393" stroke-width="1"/>
  <rect x="749" y="178" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 186h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="187" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2s" repeatCount="indefinite"/></circle><rect x="749" y="202" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="187" r="3.4" fill="#FF6678"></circle><rect x="749" y="202" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 210h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="211" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.23s" repeatCount="indefinite"/></circle><rect x="749" y="226" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="211" r="3.4" fill="#44F6CA"></circle><rect x="749" y="226" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 234h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="235" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.46s" repeatCount="indefinite"/></circle><rect x="749" y="250" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="235" r="3.4" fill="#44F6CA"></circle><rect x="749" y="250" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 258h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="259" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2.69s" repeatCount="indefinite"/></circle><rect x="749" y="274" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="259" r="3.4" fill="#FF6678"></circle><rect x="749" y="274" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 282h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="283" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.92s" repeatCount="indefinite"/></circle><rect x="749" y="298" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="283" r="3.4" fill="#44F6CA"></circle><rect x="749" y="298" width="68" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 306h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="307" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="3.1500000000000004s" repeatCount="indefinite"/></circle><rect x="749" y="322" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="805" cy="307" r="3.4" fill="#44F6CA"></circle><rect x="749" y="322" width="68" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M763 330h25.200000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="805" cy="331" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="3.38s" repeatCount="indefinite"/></circle>
+<circle cx="805" cy="331" r="3.4" fill="#FF6678"></circle>
  <path d="M835 183v192" stroke="#73FCE8" stroke-opacity=".45" stroke-width="3"/>
  </g>
 <g>
@@ -53,19 +53,19 @@
  <rect x="851" y="122" width="74" height="254" rx="3" fill="#0C1830" stroke="#247393" stroke-width="1"/>
  <rect x="857" y="137" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 145h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="146" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2s" repeatCount="indefinite"/></circle><rect x="857" y="161" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="146" r="3.4" fill="#FF6678"></circle><rect x="857" y="161" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 169h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="170" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.23s" repeatCount="indefinite"/></circle><rect x="857" y="185" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="170" r="3.4" fill="#44F6CA"></circle><rect x="857" y="185" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 193h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="194" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.46s" repeatCount="indefinite"/></circle><rect x="857" y="209" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="194" r="3.4" fill="#44F6CA"></circle><rect x="857" y="209" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 217h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="218" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2.69s" repeatCount="indefinite"/></circle><rect x="857" y="233" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="218" r="3.4" fill="#FF6678"></circle><rect x="857" y="233" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 241h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="242" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.92s" repeatCount="indefinite"/></circle><rect x="857" y="257" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="242" r="3.4" fill="#44F6CA"></circle><rect x="857" y="257" width="62" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 265h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="266" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="3.1500000000000004s" repeatCount="indefinite"/></circle><rect x="857" y="281" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="907" cy="266" r="3.4" fill="#44F6CA"></circle><rect x="857" y="281" width="62" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M871 289h23.520000000000003" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="907" cy="290" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="3.38s" repeatCount="indefinite"/></circle>
+<circle cx="907" cy="290" r="3.4" fill="#FF6678"></circle>
  <path d="M937 142v214" stroke="#73FCE8" stroke-opacity=".45" stroke-width="3"/>
  </g>
 <g>
@@ -75,19 +75,19 @@
  <rect x="739" y="205" width="85" height="205" rx="3" fill="#0C1830" stroke="#247393" stroke-width="1"/>
  <rect x="745" y="220" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 228h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="229" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2s" repeatCount="indefinite"/></circle><rect x="745" y="244" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="229" r="3.4" fill="#FF6678"></circle><rect x="745" y="244" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 252h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="253" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.23s" repeatCount="indefinite"/></circle><rect x="745" y="268" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="253" r="3.4" fill="#44F6CA"></circle><rect x="745" y="268" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 276h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="277" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.46s" repeatCount="indefinite"/></circle><rect x="745" y="292" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="277" r="3.4" fill="#44F6CA"></circle><rect x="745" y="292" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 300h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="301" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="2.69s" repeatCount="indefinite"/></circle><rect x="745" y="316" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="301" r="3.4" fill="#FF6678"></circle><rect x="745" y="316" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 324h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="325" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="2.92s" repeatCount="indefinite"/></circle><rect x="745" y="340" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="325" r="3.4" fill="#44F6CA"></circle><rect x="745" y="340" width="73" height="18" rx="4" fill="#0A1931" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 348h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="349" r="3.4" fill="#44F6CA"><animate attributeName="opacity" values="1;.28;1" dur="3.1500000000000004s" repeatCount="indefinite"/></circle><rect x="745" y="364" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
+<circle cx="806" cy="349" r="3.4" fill="#44F6CA"></circle><rect x="745" y="364" width="73" height="18" rx="4" fill="#122A45" stroke="#4FB9ED" stroke-opacity=".38"/>
 <path d="M759 372h26.6" stroke="#59C8FF" stroke-width="2" stroke-opacity=".53"/>
-<circle cx="806" cy="373" r="3.4" fill="#FF6678"><animate attributeName="opacity" values="1;.28;1" dur="3.38s" repeatCount="indefinite"/></circle>
+<circle cx="806" cy="373" r="3.4" fill="#FF6678"></circle>
  <path d="M836 225v165" stroke="#73FCE8" stroke-opacity=".45" stroke-width="3"/>
  </g>
 <g transform="translate(510 145)">
@@ -103,7 +103,7 @@
 </g>
 <g fill="none" stroke="#46F2E6" stroke-width="2.8" stroke-dasharray="7 9" opacity=".8">
 <path d="M713 277Q757 235 782 220"/><path d="M713 310Q790 339 850 276"/>
-<animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.5s" repeatCount="indefinite"/>
+
 </g>
 <circle cx="850" cy="276" r="7" fill="#75FDEE"/>
 <circle cx="782" cy="220" r="6" fill="#75FDEE"/>

@@ -1,16 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img">
-<defs>
-<linearGradient id="fobg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#230D29"/><stop offset=".5" stop-color="#0B293E"/><stop offset="1" stop-color="#18112F"/></linearGradient>
-<radialGradient id="foglow"><stop stop-color="#FF426F" stop-opacity=".43"/><stop offset="1" stop-color="#FF426F" stop-opacity="0"/></radialGradient>
-<radialGradient id="focyan"><stop stop-color="#15CDE8" stop-opacity=".37"/><stop offset="1" stop-color="#15CDE8" stop-opacity="0"/></radialGradient>
-<pattern id="fodots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#B2DDF7" fill-opacity=".22"/></pattern>
-</defs>
-<rect width="1200" height="110" rx="18" fill="url(#fobg)"/>
-<rect width="1200" height="110" rx="18" fill="url(#fodots)" opacity=".75"/>
-<ellipse cx="936" cy="39.6" rx="480" ry="104.5" fill="url(#focyan)"/>
-<ellipse cx="180" cy="99" rx="480" ry="104.5" fill="url(#foglow)"/>
-<rect x="1.5" y="1.5" width="1197" height="107" rx="17" fill="none" stroke="#FF638F" stroke-opacity=".68" stroke-width="3"/>
-<path d="M18 2H1182" stroke="#FF638F" stroke-width="5"/>
-<text x="600" y="52" fill="#ECF9FF" font-family="Arial,sans-serif" font-size="27" text-anchor="middle" font-weight="bold">BUILD  ·  DEPLOY  ·  OBSERVE  ·  IMPROVE</text>
-<text x="600" y="84" fill="#BFD6EF" font-family="monospace" font-size="17" text-anchor="middle">NGUYEN DUC BAO  /  ENGINEERING PORTFOLIO</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Build Deploy Observe Improve">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".5" stop-color="#0B1C30"/><stop offset="1" stop-color="#102138"/></linearGradient></defs>
+<rect width="1200" height="110" rx="16" fill="url(#bg)"/><path d="M35 25H1165" stroke="#406C80" stroke-opacity=".5"/><path d="M35 25H130" stroke="#4BE5DA" stroke-width="3"/>
+<text x="42" y="71" fill="#F4FAFF" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="1">BUILD  /  DEPLOY  /  OBSERVE  /  IMPROVE</text>
+<text x="1156" y="70" text-anchor="end" fill="#93B8C9" font-family="monospace" font-size="16">NGUYEN DUC BAO  /  2026</text>
+<rect x="1.5" y="1.5" width="1197" height="107" rx="15" fill="none" stroke="#50798E" stroke-opacity=".5" stroke-width="2"/></svg>

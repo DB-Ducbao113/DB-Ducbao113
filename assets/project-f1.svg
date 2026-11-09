@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Podium F1 motorsport platform, neon racing car engineering illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset=".56" stop-color="#0D2036"/><stop offset="1" stop-color="#071621"/></linearGradient>
+<radialGradient id="pink"><stop stop-color="#F35467" stop-opacity=".45"/><stop offset="1" stop-color="#F35467" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#4BE5DA" stop-opacity=".27"/><stop offset="1" stop-color="#4BE5DA" stop-opacity="0"/></radialGradient>
+<linearGradient id="car"><stop stop-color="#FB718A"/><stop offset=".35" stop-color="#E92D50"/><stop offset=".75" stop-color="#80142F"/><stop offset="1" stop-color="#3D1021"/></linearGradient>
+<linearGradient id="shadow"><stop stop-color="#091627"/><stop offset=".45" stop-color="#1D3750"/><stop offset="1" stop-color="#08101E"/></linearGradient>
+<linearGradient id="glass"><stop stop-color="#C0F8FF"/><stop offset="1" stop-color="#2D7A9D"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#68A9C1" stroke-opacity=".1" fill="none"/></pattern>
+<filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1000" height="560" rx="21" fill="url(#bg)"/>
+<rect width="1000" height="560" rx="21" fill="url(#grid)"/>
+<ellipse cx="805" cy="240" rx="260" ry="230" fill="url(#pink)"/><ellipse cx="742" cy="455" rx="240" ry="170" fill="url(#cyan)"/>
+<g opacity=".30" stroke="#66B5CC" fill="none"><path d="M500 75H948M500 99H850M502 125H929" stroke-dasharray="4 10"/><path d="M470 440L1000 440M470 460L1000 460M470 480L1000 480"/><path d="M580 0L880 560M650 0L950 560" stroke-opacity=".27"/></g>
+<path d="M510 424C670 401 808 427 986 399" stroke="#F35467" stroke-width="6" opacity=".6" fill="none" filter="url(#blur)"/>
+<g transform="translate(465,153)">
+<ellipse cx="305" cy="261" rx="257" ry="24" fill="#020711" opacity=".7"/>
+<!-- rear wing -->
+<path d="M54 116L200 103L225 119L64 136Z" fill="#0A1528" stroke="#69B7D5" stroke-width="3"/>
+<path d="M65 90L211 74L218 94L59 111Z" fill="#C82D4A" stroke="#FF9CAA" stroke-width="2"/>
+<path d="M67 110L75 157" stroke="#A6E9ED" stroke-width="7"/><path d="M202 100L211 153" stroke="#A6E9ED" stroke-width="6"/>
+<!-- back wheel -->
+<ellipse cx="178" cy="238" rx="65" ry="76" fill="#07111F" stroke="#81E4EA" stroke-width="5"/><ellipse cx="178" cy="238" rx="48" ry="59" fill="#101C2B" stroke="#41647F" stroke-width="6"/><ellipse cx="178" cy="238" rx="24" ry="32" fill="#D6F6FB" stroke="#4D8BAB" stroke-width="7"/>
+<path d="M135 239H220M178 200V274" stroke="#79B3C9" stroke-width="5" opacity=".7"/>
+<!-- main floor -->
+<path d="M140 252L375 205L524 223L490 260L235 281L122 270Z" fill="#07121D" stroke="#62C6DA" stroke-width="2"/>
+<path d="M185 153L327 128L400 172L364 205L206 232L125 203Z" fill="url(#car)" stroke="#FF9BAC" stroke-width="3"/>
+<path d="M197 158L340 143L364 164L221 188Z" fill="#FF8495" opacity=".75"/>
+<!-- front body -->
+<path d="M338 169L475 177L541 200L526 220L360 210L309 189Z" fill="url(#car)" stroke="#F88799" stroke-width="3"/>
+<path d="M396 184L529 199L504 205L390 198Z" fill="#F5A2A4" opacity=".7"/>
+<!-- cockpit + halo -->
+<path d="M254 136L291 77L340 84L373 146Z" fill="url(#shadow)" stroke="#6CE0E2" stroke-width="3"/>
+<path d="M279 131L297 96L328 103L348 135Z" fill="url(#glass)" opacity=".8"/>
+<path d="M265 144L281 101L302 86L334 86L352 133" fill="none" stroke="#101728" stroke-width="12" stroke-linecap="round"/>
+<path d="M301 89L312 145" stroke="#F5FAFF" stroke-width="5" opacity=".65"/>
+<!-- chassis lighting -->
+<path d="M235 213L398 188" stroke="#FBE5EC" stroke-width="5" opacity=".68"/>
+<path d="M246 231L394 204" stroke="#4BE5DA" stroke-width="3"/>
+<path d="M206 276L462 242" stroke="#F35467" stroke-width="6" opacity=".9"/>
+<!-- front wheel -->
+<ellipse cx="446" cy="240" rx="54" ry="68" fill="#07111F" stroke="#89E8EA" stroke-width="5"/><ellipse cx="446" cy="240" rx="38" ry="50" fill="#121F32" stroke="#41647F" stroke-width="6"/><ellipse cx="446" cy="240" rx="19" ry="25" fill="#C5E7EE" stroke="#3F708B" stroke-width="6"/>
+<path d="M413 240H479M446 201V277" stroke="#79B3C9" stroke-width="4" opacity=".8"/>
+<!-- front wing -->
+<path d="M489 220L579 215L593 232L485 245Z" fill="#111A2C" stroke="#8BE3E8" stroke-width="3"/>
+<path d="M502 205L577 197L598 211L502 221Z" fill="#E74765" stroke="#FFA4B7" stroke-width="2"/>
+<path d="M574 199L590 247" stroke="#A3E5EE" stroke-width="5"/>
+</g>
+<g><rect x="44" y="33" width="190" height="30" rx="15" fill="#152A3D" stroke="#F35467" stroke-opacity=".65"/>
+<circle cx="61" cy="48" r="5" fill="#F35467"/><text x="75" y="54" font-family="monospace" font-size="14" fill="#E8F6FE">RACE / LIVE PROJECT</text>
+<text x="42" y="151" fill="#F7FDFF" font-family="Arial,sans-serif" font-size="72" font-weight="900">PODIUM F1</text>
+<text x="43" y="202" fill="#FF7E96" font-family="Arial,sans-serif" font-size="34" font-weight="800">MOTORSPORT HUB</text>
+<text x="44" y="247" fill="#C4D9EA" font-family="Arial,sans-serif" font-size="21">Teams, seasons and interactive 3D.</text>
+<text x="44" y="284" fill="#86BCD0" font-family="monospace" font-size="17">DISCOVER / EXPLORE / RACE</text></g>
+<g font-family="Arial,sans-serif" font-weight="bold" font-size="14" fill="#DCEFFF">
+<rect x="43" y="327" width="169" height="36" rx="9" fill="#0B1E32" stroke="#F35467" stroke-opacity=".52"/><circle cx="58" cy="345" r="5" fill="#F35467"/><text x="73" y="351">RACE SEASONS</text>
+<rect x="225" y="327" width="182" height="36" rx="9" fill="#0B1E32" stroke="#4BE5DA" stroke-opacity=".43"/><circle cx="240" cy="345" r="5" fill="#4BE5DA"/><text x="255" y="351">TEAM PROFILES</text>
+<rect x="43" y="375" width="169" height="36" rx="9" fill="#0B1E32" stroke="#4BE5DA" stroke-opacity=".43"/><circle cx="58" cy="393" r="5" fill="#4BE5DA"/><text x="73" y="399">3D SHOWROOM</text>
+<rect x="225" y="375" width="182" height="36" rx="9" fill="#0B1E32" stroke="#F35467" stroke-opacity=".43"/><circle cx="240" cy="393" r="5" fill="#F35467"/><text x="255" y="399">RACE CONTENT</text>
+</g>
+<path d="M43 455H422" stroke="#F35467" stroke-opacity=".57" stroke-dasharray="3 5"/>
+<text x="43" y="483" fill="#9EC8D7" font-family="monospace" font-size="14">REACT  /  TYPESCRIPT  /  THREE.JS</text>
+<rect x="1.5" y="1.5" width="997" height="557" rx="20" fill="none" stroke="#F35467" stroke-opacity=".58" stroke-width="3"/><path d="M25 2H975" stroke="#F35467" stroke-width="5" opacity=".92"/>
+</svg>
